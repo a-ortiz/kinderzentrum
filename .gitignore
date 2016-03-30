@@ -60,3 +60,6 @@ target/
 .tern*
 .~lock*
 *org
+
+#Bower generated files
+static/bower_components/
