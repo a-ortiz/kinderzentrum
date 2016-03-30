@@ -1,0 +1,29 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+/*
+ * Table
+ */
+
+thead tr, tbody tr{
+  border: 1px solid #ddd;
+}
+
+.table-result{
+  border: none;
+}
+
+.table-result td{
+  background: #fff;
+}
+
+/*
+ * Table
+ */
+
